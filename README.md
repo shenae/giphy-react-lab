@@ -28,8 +28,8 @@ Let's build a react giphy app!
 * Create a pull request 
 
 
-#### BONUS Allow User To Choose How Many Gifs
+#### BONUS Allow User To Search Gifs
 
-* add an additional input that allows the user to choose how many gifs to pull
+* Add an input field that allows the user to add a search term
 
 
