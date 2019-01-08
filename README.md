@@ -16,7 +16,7 @@ Let's build a react giphy app!
 
 #### HW Submission
 
-* Commit messages should be made after the creation of every component.
+* Commit messages should be made often!!
 * Create a pull request 
 
 
