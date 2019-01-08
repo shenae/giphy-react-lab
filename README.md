@@ -6,17 +6,10 @@ Let's build a react giphy app!
 
 #### Your task is:
 * Go to the Giphy docs [HERE](https://developers.giphy.com/docs/), _read_ them,  create an account abd get your Free API key.
-
-* Visualize Your App:
-  * Determine how many components you should create and their naming conventions.
-  * Draw out your app heirarchy.
-  * Ask yourself were would state "live".
-  * Update app heirarchy pass props
-
+* Create an app the starts out with a button and when the user clicks the button a random gif appears
 
 #### 🚀 Completion looks like:
 
-* You have a colorful diagram of your components.
 * The app should show a "loading..." message until the fetch call has been completed
 * You have an application that renders a button on page load.
 * When a user clicks the button, a random Gif appears on the screen.
