@@ -17,7 +17,6 @@ Let's build a react giphy app!
 #### HW Submission
 
 * Commit messages should be made after the creation of every component.
-* Upload your pic of your react app heirarch with as much detail as possible.
 * Create a pull request 
 
 
